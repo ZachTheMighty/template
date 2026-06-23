@@ -1,3 +1,6 @@
+# Kate swap file
+*.kate-swp
+
 # Logs
 logs
 *.log
